@@ -2,9 +2,9 @@
 Demo Capacitor app with an Android and a iOS demo plugin.
 
 Folder structure:
-- `src` contains the webapp.
-- `android` contains the Android project.
-- `ios` contains the iOS project.
+- `src` contains the webapp consisting of a single page (*Home.tsx*).
+- `android` contains the Android project and the native Capacitor plugin *OneTrustPlugin.java*.
+- `ios` contains the iOS project and the native Capacitor plugin *OneTrustPlugin.swift*.
 
 ## Commands
 
